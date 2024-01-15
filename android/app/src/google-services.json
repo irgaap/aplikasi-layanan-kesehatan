@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611858917147",
+    "project_id": "apk-kesehatan-7d874",
+    "storage_bucket": "apk-kesehatan-7d874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611858917147:android:97756f5bc0751fd77415be",
+        "android_client_info": {
+          "package_name": "com.example.apk_kesehatan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyx7z4-4_HhUd841rz1LAD-TD4xPI7Wrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
